@@ -1,0 +1,24 @@
+
+{
+  "name": "RONDONIA EXPLORACAO",
+  "language": "Português",
+  "announce": false,
+  "max_players": 50,
+  "network": {
+    "port": 7777
+  },
+  "game": {
+    "map": "Los Santos",
+    "mode": "Exploracao",
+    "time": 12,
+    "weather": 10
+  },
+  "pawn": {
+    "main_scripts": [
+      "Rondonia_Exploracao 1"
+    ]
+  },
+  "rcon": {
+    "enable": false
+  }
+}
